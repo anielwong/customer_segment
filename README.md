@@ -1,2 +1,2 @@
-# customer_segment
+# Customer Segment Project
 The goal of this project is to use unsupervised learning techniques to see if any similarities exist between customers of a fictitious wholesale retailer , and how to best segment customers into distinct categories using various clustering techniques in order to help the retailer make more informed business decisions.
